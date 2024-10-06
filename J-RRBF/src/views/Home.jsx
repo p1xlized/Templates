@@ -3,8 +3,6 @@ import { getDocs, collection } from "firebase/firestore";
 
 import { db } from "../lib/api";
 function App() {
-
-
   const [documents, setDocuments] = useState([]);
 
   useEffect(() => {
