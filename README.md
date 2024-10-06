@@ -22,5 +22,5 @@ Here are all of my templates that i currently use. To use the i just copy the pr
 | **F** | Firebase|
 
 #### Exemple:
-**RRTWS** => React + ReactRouter + TailwindCSS + SUpabase
+**RRTWS** => React + ReactRouter + TailwindCSS + Supabase
 
